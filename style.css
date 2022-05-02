@@ -1,0 +1,114 @@
+.menu {
+    list-style: none;
+color:#79e7e7;
+font-family: fantasy;
+margin-top: 10px;
+margin-left: 390px;
+z-index: 10;
+cursor: pointer;
+
+
+}
+
+    .links {
+        float: left;
+    padding: 10px;
+    text-size-adjust: 50px;
+}
+
+.links:hover {
+    color:#270101;
+    font-size:larger;
+    font-family:'Times New Roman', Times, serif;
+}
+
+body{
+    background: linear-gradient(#c585ed 0%, #92cae0 100%);
+}
+table, th, td {
+    border:1px solid black;
+  }
+  
+  #profilepicture{
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  #Name {
+    font-family:cursive;
+    color:#270101;
+
+  }
+  #welcomepage {
+    background: linear-gradient(#ec6de6 0%, #94cfe9 100%);
+    display: table;
+    height: 100%;
+    width: 100%;
+  }
+
+#iam{
+    font-family:cursive;
+    color:#270101;
+  }
+  #aka {
+    font-family:cursive;
+    color:#270101;
+  }
+
+  #infopage {
+    background: linear-gradient(#b3a1e6 0%, #ffffff 100%);
+    display: table;
+    height: 50%;
+    width: 100%;
+
+
+ }
+ #hi {
+     text-align: center;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: bold;
+     color: #270101;
+ }
+#info {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    color: #270101;
+}
+#question {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #270101;
+}
+#qs {
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    color: #270101;
+}
+
+#img3 {
+  height:400px;
+}
+
+#click {
+  height:200px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
